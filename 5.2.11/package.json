@@ -1,0 +1,12 @@
+{
+	"name": "vite-5-2-11",
+	"scripts": {
+		"build": "vite build"
+	},
+	"devDependencies": {
+		"vite": "5.2.11"
+	},
+	"dependencies": {
+		"@docsearch/css": "^3.6.0"
+	}
+}
